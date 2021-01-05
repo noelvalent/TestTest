@@ -5,6 +5,7 @@ t_path = r'C:\Users\tama0\Desktop\새 폴더'
 file_list = os.listdir(path)
 
 count = 0
+a = 1
 
 lst_already_copy = []
 
